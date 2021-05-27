@@ -1,6 +1,6 @@
 # ProjectComprokmitl
 
-### add git
+### settinggit
 - echo "# ProjectComprokmitl" >> README.md
 - git init
 - git add README.md

@@ -1,0 +1,96 @@
+กรุงเทพ วัดพระศรีรัตนศาสดาราม วัดอรุณราชวราราม ตลาดน้ำขวัญเรียม ตลาดนัดรถไฟศรีนครินทร์ ตลาดนัดจตุจักร 
+เชียงใหม่ วัดพระธาตุดอยสุเทพ ดอยอินทนนท์ ถนนคนเดินท่าแพม่อนแจ่ม  สวนพฤกษศาสตร์สมเด็จพระนางเจ้าสิริกิติ์ ดอยหลวงเชียงดาว
+เชียงราย ภูชี้ฟ้า ดอยผาตั้ง ภูชี้ดาว วัดร่องขุ่น วัดร่องเสือเต้น
+พัทยา เกาะล้าน เขาพระตำหนัก ตลาดจีนโบราณชากแง้ว สวนนงนุช หาดพัทยา
+กาญจนบุรี วัดถ้ำพุหว้า วัดถ้ำเสือ อุทยานประวัติศาสตร์ปราสาทเมืองสิงห์ ทางรถไฟสายมรณะ น้ำตกไทรโยคน้อย
+ภูเก็ต วัดฉลอง วัดพระทอง เกาะราชาใหญ่ เกาะไม้ท่อน หาดป่าตอง
+พระนครศรีอยุธยา วัดมหาธาตุ วัดพระศรีสรรเพชญ์ วัดไชยวัฒนาราม ตลาดน้ำอโยธยา ตลาดน้ำทุ่งบัวชม
+สุราษฎร์ธานี เขาสามเกลอ ป่าต้นน้ำบ้านน้ำราด พระบรมธาตุไชยา เกาะพะงัน เกาะสมุย เกาะนางยวน
+
+กระบี่ ทะเลแหวก เกาะปอดะ เกาะพีพี หาดถ้ำพระนาง น้ำตกร้อน
+ขอนแก่น วัดพระธาตุหนองแวง วัดทุ่งเศรษฐี ตลาดต้นตาล อุทยานแห่งชาติภูผาม่าน พิพิธภัณฑ์ไดโนเสาร์ภูเวียง
+
+วัด TEMPLE ตลาด MARKET ภูเขา FELL สวน GARDEN เกาะ ISLAND หาด BEACH
+อุทยานHISTORICALPARK LANDMARK ถนนคนเดิน WALKING STREET น้ำตก CASCADE
+ป่า JUNGLE พิพิธภัณฑ์ MUSEUM
+
+T T M M M 
+T F W G F
+F F F W W
+I F M G B
+T T H L C
+T T I I B
+T T T M M
+F J T I I
+B I I B C
+T T M H m
+
+BANGKOK
+THE_TEMPLE_OF_THE_EMERALD_BUDDHA
+WAT_ARUN_RATCHAWARARAM
+KWAN_RIAM_FLOATING_MARKET
+TRAIN_MARKET_SRINAKARIN
+JATUJAK_MARKET
+
+CHIANG_MAI
+WAT_PHRA_THAT_DOI_SUTHEP
+DOI_INTHANON
+THAPAE_WALKING_STREET
+QUEEN_SIRIKIT_BOTANIC_GARDEN
+DOI_CHIANG_DAO
+
+CHIANG_RAI 
+PHU_CHI_FA 
+DOI_PHA_TANG
+PHU_CHEE_DAO 
+WAT_RONG_KHUN 
+WAT_RONG_SUEA_TEN
+
+PATTAYA
+KOH_LAN
+KHAO_PHRA_TAMNAK
+PATTAYA_OLD_TOWN_WALKING_STREET
+NONGNOOCH_GARDEN
+PATTAYAWATCHDOG
+
+KANCHANABURI
+WAT_THAMPHUWA
+WAT_THAMSUEA
+ASIAN_CULTURE_MUSEUM
+THE_DEATH_RAILWAY
+SAI_YOK_NATIONAL_PARK
+
+PHUKET
+WAT_CHALONG
+WAT_PHRA_PHUD
+RACHA_YAI_ISLAND
+HONEYMOON_ISLAND
+PHATONG_BEACH
+
+AYUTTHAYA
+WAT_MAHATHAT
+WAT_PHRASISANPHET
+WAT_CHAIWATTHANARAM 
+AYOTHAYA_FLOATING_MARKET
+THUNGBUACHOM_FLOATING_MARKET
+
+SURAT_THANI
+SAM_KLUR_MOUNTAIN
+WAT_PHRA_BOROMATHAT_CHAIYA
+KOH_PHANGAN
+KOH_SAMUI
+KOH_NANG_YUAN
+
+KRABI 
+TALAY_WAK
+PODA_ISLAND
+PHI_PHI_ISLAND 
+PHRA_NANG_CAVE_BEACH
+NAMTOK_RON
+
+KHON_KAEN
+WAT_NONGWANG
+WAT_THUNG SETTHI
+TON_TANN_MARKET
+PHU_PHA MAN NATIONAL PARK
+PHU_WIANG DINOSAUR MUSEUM
